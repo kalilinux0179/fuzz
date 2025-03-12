@@ -1,2 +1,6 @@
 /api/metadata
 /api/resource
+/redoc
+/openapi.json
+/swagger.json
+/docs
